@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"href="lab exp3.css">
+</head>
+<body>
+    <h1 class="x">my self</h1>
+    <h1 id="y">from ongole</h1>
+    <h2>i am simple</h2>
+    <h3>i trust others easily</h3>
+    <h4>i am always think positive</h4>
+    <h5>i live happily</h5>
+</body>
+</html>
